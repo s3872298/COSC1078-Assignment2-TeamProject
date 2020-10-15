@@ -327,6 +327,19 @@ input, select, textarea {
 		text-align: right;
 	}
 
+/* Column */
+
+	.column {
+  	float: left;
+  	width: 33%;
+	}
+
+	.row:after {
+  	content: "";
+  	display: table;
+  	clear: both;
+	}
+
 /* Row */
 
 	.row {
