@@ -4306,4 +4306,6 @@ input, select, textarea {
 		}
 
 	#timeframe {
-		table-layout: fixed;	}
+		table-layout: fixed;
+		text-align: left;
+	}
