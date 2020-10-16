@@ -4304,3 +4304,6 @@ input, select, textarea {
 			}
 
 		}
+
+	#timeframe {
+		table-layout: fixed;	}
